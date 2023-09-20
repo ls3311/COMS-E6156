@@ -6,9 +6,8 @@ Sprint in a concept from [Agile SW development](https://en.wikipedia.org/wiki/Ag
 Project teams will follow a simplified version of agile development to build their projects. A core concept in
 agile development is _a sprint._
 
-|   <img src="./sprints.png">    |
-|:------------------------------:|
-| __Agile Development: Sprints__ | 
+![image](https://github.com/ls3311/COMS-E6156/assets/22625670/3bdb03b2-69e6-4136-8fa8-a07d917314bb)
+
 
 Sprint-0 is an individual sprint that focus on setting up their environments. All students must complete the sprint
 individually. This document is the template for submitting a status report on Sprint-0. 
